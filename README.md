@@ -5,5 +5,5 @@ This is a mirror of http://www.avisynth.nl/users/vcmohan/vfx/vfx.html
 
 Mainly to have a "stable" release link for vsrepo. No modifications are made.
 
-Plugin Author
+## Plugin Author
 V. C. Mohan - http://www.avisynth.nl/users/vcmohan/
